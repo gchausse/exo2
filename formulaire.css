@@ -1,0 +1,14 @@
+label {
+    display: inline-block;
+width: 6em;
+margin-bottom: 2em;
+}
+body {
+    background-color: silver;
+}
+fieldset {
+    border:  2px solid black;
+    margin-left: 6em;
+    display: inline-block;
+    width: 23em;
+}
